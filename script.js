@@ -1,8 +1,7 @@
 function nine() {
   var input = document.getElementById('no').value;
   document.getElementById('no').value = input + "9";
-}
-function eight() {
+}function eight() {
   var input = document.getElementById('no').value;
   document.getElementById('no').value = input + "8";
 }
